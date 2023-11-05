@@ -1,0 +1,17 @@
+.Prod{
+  color: azure;
+  text-align: center;
+}
+
+.Prod img {
+  width: 200px;
+  
+}
+
+.Section {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+
+}

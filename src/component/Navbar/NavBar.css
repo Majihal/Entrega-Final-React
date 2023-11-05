@@ -1,0 +1,14 @@
+.container{
+  justify-content: end;
+  background-color: #FC7B7B ;
+
+}
+
+.containerUl{
+  margin-right: 2rem;
+  display: flex;
+  list-style-type: none;
+  gap: 4rem;
+ 
+}
+
