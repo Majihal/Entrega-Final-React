@@ -49,7 +49,7 @@ export const ProductsItem = ({producto} ) => {
           {producto.name}
         </Typography>
         <Typography  variant="h5" color="text.primary">
-          {producto.price}
+          ${producto.price}
         </Typography>
         <Button variant='contained' onClick={handleClick}>Agregar</Button>
         <span style={{ margin: '0 10px' }}></span>
